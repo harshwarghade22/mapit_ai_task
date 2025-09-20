@@ -92,4 +92,16 @@ npm run dev
 | `POST` | `/checkin`     | Record a student check-in       |
 | `GET`  | `/checkins`    | Get all check-ins with details |
 
+## 📸 Screenshots  
+
+### 🏠 Home Page  
+![Dashboard](screenshots/home.png)  
+
+### 👩‍🎓 Dashboard
+![Add Student](screenshots/dashboard.png)  
+
+### 🕒 Check-in Table  
+![Check-in](screenshots/checkin.png)  
+
+
 
